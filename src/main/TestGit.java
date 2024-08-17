@@ -7,7 +7,6 @@ public class TestGit {
     String chuoi;
     int soKyTuInHoa = 0, soKyTuInThuong = 0, soChuSo = 0;
     Scanner sc = new Scanner(System.in);
-
     do {
       System.out.println("Nhập vào 1 chuỗi bất kỳ : ");
       chuoi = sc.nextLine();

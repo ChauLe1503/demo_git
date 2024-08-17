@@ -25,6 +25,5 @@ public class MyDate {
 
   public void printDate() {
     System.out.println("Date : " + this.day +"-" + this.month + "-" + this.year);
-
   }
 }

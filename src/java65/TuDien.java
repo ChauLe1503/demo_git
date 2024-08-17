@@ -1,4 +1,4 @@
-package java65.main;
+package java65;
 
 import java.util.*;
 

@@ -12,7 +12,7 @@ public class Map_Interface {
     // HashMap là 1 Class Collection
     // mỗi phần tử trong hashMap bao gồm 2 phần
     // key (Integer) và value (String)
-    Map<Integer, String> hashMap = new HashMap<>();
+    Map<Integer,String> hashMap = new HashMap<>();
 
     // Thêm value vào trong hashMap với key tương ứng
     // sử dụng phương thức put()

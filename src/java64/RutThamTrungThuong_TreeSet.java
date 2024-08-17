@@ -1,4 +1,4 @@
-package java64.main;
+package java64;
 
 import java.util.*;
 
